@@ -1,3 +1,5 @@
+# minetotg
+![PyPI - Downloads](https://img.shields.io/pypi/dm/minetotg?style=flat-square)
 This project was created in order to help Minecraft community to transform game text formatting to Telegram HTML format.
 
 ### Installation
