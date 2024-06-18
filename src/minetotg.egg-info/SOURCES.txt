@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/minetotg/__init__.py
+src/minetotg/main.py
+src/minetotg.egg-info/PKG-INFO
+src/minetotg.egg-info/SOURCES.txt
+src/minetotg.egg-info/dependency_links.txt
+src/minetotg.egg-info/top_level.txt
