@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "minetotg"
-version = "1.0.0"
+version = "1.0.1"
 authors = [
   { name="R0boji", email="roboji.public@internet.ru" },
 ]
@@ -14,7 +14,7 @@ license = {file = "LICENSE"}
 keywords = ["Telegram", "Formatting", "Minecraft"]
 requires-python = ">=3.8"
 classifiers = [
-    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
     "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
      "Development Status :: 5 - Production/Stable"
@@ -23,3 +23,4 @@ classifiers = [
 [project.urls]
 Homepage = "https://github.com/R0boji/minetotg"
 Issues = "https://github.com/R0boji/minetotg/issues"
+GitVerse = "https://gitverse.ru/roboji/minetotg"
