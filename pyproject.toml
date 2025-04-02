@@ -10,7 +10,8 @@ authors = [
 ]
 description = "A tool that reformat string with Minecraft text formatting to Telegram HTML."
 readme = {file = "README.md", content-type = "text/markdown"}
-license = {file = "LICENSE"}
+license-files = ["LICENSE*"]
+license = "MIT"
 keywords = ["Telegram", "Formatting", "Minecraft"]
 requires-python = ">=3.8"
 classifiers = [
@@ -24,7 +25,6 @@ classifiers = [
     "Environment :: Console",
     "Intended Audience :: Developers",
     "Topic :: Text Processing :: Markup",
-    "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
     "Development Status :: 5 - Production/Stable"
 ]
