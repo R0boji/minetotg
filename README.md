@@ -15,9 +15,19 @@ pip install minetotg
 
 ### Usage
 
+#### Python Module
 ```python
 from minetotg import reformat
 
 some_reformatted_string = reformat("§kSpoiler§r§lBold§r")
 print(some_reformatted_string) # Output: <tg-spoiler>Spoiler</tg-spoiler><b>Bold</b>
+```
+
+#### CLI
+```commandline
+python -m minetotg §kSpoiler§r§lBold§r
+```
+Output:
+```commandline
+<tg-spoiler>Spoiler</tg-spoiler><b>Bold</b>
 ```
