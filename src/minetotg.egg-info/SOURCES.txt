@@ -2,6 +2,7 @@ LICENSE
 README.md
 pyproject.toml
 src/minetotg/__init__.py
+src/minetotg/__main__.py
 src/minetotg/main.py
 src/minetotg.egg-info/PKG-INFO
 src/minetotg.egg-info/SOURCES.txt
