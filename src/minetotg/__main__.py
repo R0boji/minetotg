@@ -1,4 +1,4 @@
-from main import reformat
+from .main import reformat
 import sys
 
 # CLI interface

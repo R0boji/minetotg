@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: minetotg
-Version: 1.1.0
+Version: 1.1.1
 Summary: A tool that reformat string with Minecraft text formatting to Telegram HTML.
 Author-email: R0boji <roboji.public@internet.ru>
 License-Expression: MIT
@@ -8,8 +8,8 @@ Project-URL: Homepage, https://github.com/R0boji/minetotg
 Project-URL: Issues, https://github.com/R0boji/minetotg/issues
 Project-URL: GitVerse, https://gitverse.ru/roboji/minetotg
 Keywords: Telegram,Formatting,Minecraft
+Classifier: Programming Language :: Python :: 3
 Classifier: Programming Language :: Python :: 3.8
-Classifier: Programming Language :: Python :: 3.x
 Classifier: Programming Language :: Python :: 3.9
 Classifier: Programming Language :: Python :: 3.10
 Classifier: Programming Language :: Python :: 3.11
@@ -26,10 +26,11 @@ License-File: LICENSE
 Dynamic: license-file
 
 # minetotg
+![Pepy Total Downloads](https://img.shields.io/pepy/dt/minetotg?style=flat-square)
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/minetotg?style=flat-square)
 ![PyPI - Version](https://img.shields.io/pypi/v/minetotg?style=flat-square)
 ![PyPI - Status](https://img.shields.io/pypi/status/minetotg?style=flat-square)
-![PyPI - License](https://img.shields.io/pypi/l/minetotg?style=flat-square)
+![GitHub - License](https://img.shields.io/github/license/R0boji/minetotg?style=flat-square)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/minetotg?style=flat-square)
 
 This project was created in order to help Minecraft community to transform game text formatting to Telegram HTML format.
