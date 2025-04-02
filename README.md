@@ -1,4 +1,5 @@
 # minetotg
+![Pepy Total Downloads](https://img.shields.io/pepy/dt/minetotg?style=flat-square)
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/minetotg?style=flat-square)
 ![PyPI - Version](https://img.shields.io/pypi/v/minetotg?style=flat-square)
 ![PyPI - Status](https://img.shields.io/pypi/status/minetotg?style=flat-square)
