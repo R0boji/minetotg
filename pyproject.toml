@@ -15,8 +15,8 @@ license = "MIT"
 keywords = ["Telegram", "Formatting", "Minecraft"]
 requires-python = ">=3.8"
 classifiers = [
+    "Programming Language :: Python :: 3",
     "Programming Language :: Python :: 3.8",
-    "Programming Language :: Python :: 3.x",
     "Programming Language :: Python :: 3.9",
     "Programming Language :: Python :: 3.10",
     "Programming Language :: Python :: 3.11",
